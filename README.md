@@ -21,6 +21,10 @@
 <br>
 <p>Aero Client's launcher collects the information above for whitelist purposes and to prevent the use of cheats in Minecraft.<p>
     
-
+<p align="center">
+    <a href="https://github.com/Aero-Client/Terms-of-Service">
+    <img src="https://raw.githubusercontent.com/Aero-Client/Aero-Client.github.io/master/button2.png">
+    </a>
+</p>
 
 </html>
