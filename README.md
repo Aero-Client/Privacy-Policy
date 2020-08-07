@@ -19,7 +19,7 @@
 
 <strong>Why the launcher collects this information:</strong>
 <br>
-<p>Aero Client's launcher collects the information above for whitelist purposes and to prevent the use of cheats in Minecraft.<p>
+<p>Aero Client's launcher collects the information above for whitelisting purposes and to prevent the use of cheats in Minecraft.<p>
 <br>
 <br>
 <p align="center">
