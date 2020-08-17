@@ -11,11 +11,12 @@
 <strong>Aero Client's launcher may collect the following from you:</strong>
 
 - Game identifiers (e.g. in-game name, account UUID, etc.)
-- Amount of clicks per second you get
+- Running Process Names (e.g AutoClickers, Cheats, etc.)
+- The delay between each left mouse button click.
 
 <strong>Duration information is collected for:</strong>
 
-<p>The information is collected for the duration that the game is "launched". The anticheat will be active once the launch button says "running".</p>
+<p>The information is collected for the duration that the game is "launched". The anticheat will be active once the launch button is past "Initializing".</p>
 
 <strong>Why the launcher collects this information:</strong>
 <br>
