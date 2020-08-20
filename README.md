@@ -11,8 +11,8 @@
 <strong>Aero Client's launcher may collect the following from you:</strong>
 
 - Game identifiers (e.g. in-game name, account UUID, etc.)
-- Running Process Names (e.g AutoClickers, Cheats, etc.)
-- The delay between each left mouse button click.
+- Running Process Information (e.g Process Names, ID's, etc.)
+- The delay between each mouse button click.
 
 <strong>Duration information is collected for:</strong>
 
