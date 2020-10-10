@@ -14,7 +14,7 @@
 
 <strong>Duration information is collected for:</strong>
 
-<p>The information is collected for the duration that the game is "launched". The anticheat will be active once the launch button is past "Initializing AAC".</p>
+<p>The information is collected for the duration that the game is "launched". The anticheat will be active once the launch button is past "Initializing ACP".</p>
 
 <strong>Why the launcher collects this information:</strong>
 <br>
